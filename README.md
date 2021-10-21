@@ -57,7 +57,5 @@ Here are some ideas to get you started:
 <img height="24px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
   
-  <div>
   ![Snake animation](https://github.com/rodolfod2r2/rodolfod2r2/blob/output/github-contribution-grid-snake.svg)
-  </div>  
 
