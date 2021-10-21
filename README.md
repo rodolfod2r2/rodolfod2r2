@@ -42,6 +42,14 @@ Here are some ideas to get you started:
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfod2r2&layout=compact&langs_count=7&theme=default" />
 </div>
   
+<br />
+
+<div align="center">
+  
+![Snake animation](https://github.com/rodolfod2r2/rodolfod2r2/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+  
 ## 🚀 Skills
   
   <img height="24px" src="https://img.shields.io/badge/Java-0077B5?style=for-the-badge&logo=java&logoColor=white" />
@@ -58,11 +66,3 @@ Here are some ideas to get you started:
   <img height="24px" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
   <img height="24px" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
  
-  <br />
-  
-<div align="center">
-  
-![Snake animation](https://github.com/rodolfod2r2/rodolfod2r2/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
