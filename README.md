@@ -14,8 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olá, eu sou o Rodolfo Gonçalves de Luna Freire
-#### Especialista em Desenvolvimento de Software e Gerente de tecnologia na Dock!
+
+<div align="center">
+  
+  ### Olá, eu sou o Rodolfo Gonçalves de Luna Freire
+  
+  #### Especialista em Desenvolvimento de Software e Gerente de tecnologia na Dock!
+
+</div>
+
 <div align="center">
   <a href="https://github.com/rodolfod2r2">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=rodolfod2r2&show_icons=true&theme=default &include_all_commits=true&count_private=true" />
