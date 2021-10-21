@@ -24,6 +24,17 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
+  
+<img height="24px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img height="24px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+<img height="24px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img height="24px" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+<img height="24px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+<img height="24px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+
+</div>
+
+<div align="center">
   <a href="https://github.com/rodolfod2r2">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=rodolfod2r2&show_icons=true&theme=default &include_all_commits=true&count_private=true" />
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfod2r2&layout=compact&langs_count=7&theme=default" />
@@ -48,14 +59,7 @@ Here are some ideas to get you started:
   
   ## 
  
-<div> 
-<img height="24px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img height="24px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-<img height="24px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-<img height="24px" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-<img height="24px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-<img height="24px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-</div>
+
   
   ![Snake animation](https://github.com/rodolfod2r2/rodolfod2r2/blob/output/github-contribution-grid-snake.svg)
 
