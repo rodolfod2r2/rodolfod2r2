@@ -57,11 +57,8 @@ Here are some ideas to get you started:
   
   <img height="24px" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
   <img height="24px" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  
-  
-  ## 
  
-
+  <br />
   
   ![Snake animation](https://github.com/rodolfod2r2/rodolfod2r2/blob/output/github-contribution-grid-snake.svg)
 
