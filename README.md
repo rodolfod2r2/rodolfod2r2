@@ -60,7 +60,9 @@ Here are some ideas to get you started:
  
   <br />
   
+<div align="center">
+  
 ![Snake animation](https://github.com/rodolfod2r2/rodolfod2r2/blob/output/github-contribution-grid-snake.svg)
   
-
+</div>
 
