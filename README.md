@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
   ### Olá, eu sou o Rodolfo Gonçalves de Luna Freire
   
-  #### Especialista em Desenvolvimento de Software e Gerente de Tecnologia na Dock Tech!
+
 
 </div>
 
