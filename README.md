@@ -50,9 +50,7 @@ Here are some ideas to get you started:
   
 ## 🚀 Skills
   
-  <img height="24px" src="https://img.shields.io/badge/Java-0077B5?style=for-the-badge&logo=java&logoColor=white" />
-  <img height="24px" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img height="24px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img height="24px" src="https://img.shields.io/badge/Java-0077B5?style=for-the-badge&logo=java&logoColor=white" />  <img height="24px" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />   <img height="24px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img height="24px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img height="24px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img height="24px" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
