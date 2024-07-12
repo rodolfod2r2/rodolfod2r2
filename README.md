@@ -19,8 +19,6 @@ Here are some ideas to get you started:
   
   ### Olá, eu sou o Rodolfo Gonçalves de Luna Freire
   
-
-
 </div>
 
 <div align="center">
@@ -35,11 +33,16 @@ Here are some ideas to get you started:
 </div>
 
 <br />
+<!--
+Bacharel em Ciências da Computação com paixão por tecnologia e uma carreira focada em liderar equipes e impulsionar projetos inovadores. Possuindo habilidades avançadas em Spring Framework e Java, além de expertise em gestão de equipe e alinhamento estratégico de tecnologia com objetivos de negócios. Com liderança caracterizada por resiliência, humildade e senso crítico. Especialista em liderança de projetos tecnológicos e desenvolvimento de talentos, destacando-se na arquitetura de software e resolução de desafios complexos.
+-->
+<br />
 
 <div align="center">
   <a href="https://github.com/rodolfod2r2">
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=rodolfod2r2&include_all_commits=true&count_private=true&show_icons=true" alt="rodolfod2r2"/>
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfod2r2&layout=compact&langs_count=7&theme=default" />
+  </a>
 </div>
   
 <div align="center">
@@ -50,6 +53,7 @@ Here are some ideas to get you started:
   
 ## 🚀 Skills
   
-  <img height="24px" src="https://img.shields.io/badge/Java-0077B5?style=for-the-badge&logo=java&logoColor=white" />  <img height="24px" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />   <img height="24px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img height="24px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img height="24px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img height="24px" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img height="24px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img height="24px" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img height="24px" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" /> <img height="24px" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
-  <img height="24px" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> 
+<img height="24px" src="https://img.shields.io/badge/Java-0077B5?style=for-the-badge&logo=java&logoColor=white" /> <img height="24px" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img height="24px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img height="24px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img height="24px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img height="24px" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img height="24px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img height="24px" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img height="24px" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" /> <img height="24px" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" /> <img height="24px" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> 
+
+
+
