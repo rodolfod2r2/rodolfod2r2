@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/rodolfod2r2">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=rodolfod2r2&show_icons=true&theme=default &include_all_commits=true&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodolfod2r2&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="rodolfod2r2"/>
+  
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfod2r2&layout=compact&langs_count=7&theme=default" />
 </div>
   
